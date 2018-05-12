@@ -27,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
     - http://www.victorianweb.org/authors/wmt/wmtov.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19112#La-foire-aux-vanit-s-Tome-I
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-08-24'
 gutenberg_type: Text
