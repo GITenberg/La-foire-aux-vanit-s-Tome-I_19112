@@ -1,0 +1,49 @@
+_repo: La-foire-aux-vanit-s-Tome-I_19112
+_version: 0.1.0
+alternative_title: Vanity Fair. French
+contributor:
+  translator:
+    agent_name: Guiffrey, Georges
+    alias: Guiffrey, Georges Maurice
+    birthdate: 1827
+    deathdate: 1887
+    gutenberg_agent_id: '9576'
+    url: http://www.gutenberg.org/2009/agents/9576
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    aliases:
+    - Titmarsh, M. A.
+    - Thackeray, W. M.
+    - Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19112'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Female friendship -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Waterloo, Battle of, Waterloo, Belgium, 1815 -- Fiction'
+- !lcsh 'British -- Europe -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Married women -- Fiction'
+title: La foire aux vanités, Tome I
+url: http://www.gutenberg.org/ebooks/19112
